@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/sdk/extras/android/support/v7/appcompat/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/sdk/extras/android/support/v4/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="D:/sdk/platforms/android-21/android.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://developer.android.com/reference/"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-api-client-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-api-client-android2-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-http-client-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-http-client-android2-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-oauth-client-1.10.1-beta.jar"/>
+	<classpathentry kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/google-play-services-main.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/gson-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="//192.168.42.71/htdocs/android app/codecanyon-13178075-what-is-near-to-me-/Source-Code/Source-Code/what-is-near-to-me/What Near to Me - Online/libs/guava-11.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/appcompat_v7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/org.apache.http.legacy.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/picasso-2.5.2.jar"/>
+	<classpathentry exported="true" kind="src" path="/google-play-services_lib"/>
+	<classpathentry exported="true" kind="lib" path="D:/android-google-maps-api11.jar"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/What Near to Me - Online/libs/google-play-services.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
